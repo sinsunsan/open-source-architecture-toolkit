@@ -1,4 +1,4 @@
-# Good pratices for open source architecture and collaborative design projects 
+# Toolkit for open source architecture and collaborative design projects 
 
 Collaborative design, open source architecture are different terms that are not entirely interchangeable. 
 
