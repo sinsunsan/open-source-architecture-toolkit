@@ -37,7 +37,12 @@ If you write on the topic and have a blog on open source architecture, collabora
 
 ##  Summary of chapters
 
-### the terms of open source architecture 
+### The business models of open source architecture
+
+Writing...
+
+
+### The terms of open source architecture 
 
 * Open source architecture 
 * Open source Hardware
@@ -46,7 +51,10 @@ If you write on the topic and have a blog on open source architecture, collabora
 * Participatory design
 * ....
 
-### the types of open source architecture projects 
+To write...
+
+
+### The types of open source architecture projects 
 
 * Open source construction system : (wikihouse.cc) 
 * Collaborative drawing software (modelo.io)
@@ -54,7 +62,9 @@ If you write on the topic and have a blog on open source architecture, collabora
 * Open source elements of projects (openbricks.io)
 * Participatory design project (wikibuilding)
 
-### the licences for open source architecture
+To write...
+
+### The licences for open source architecture
 
 * Creative commons licences 
 * Open source hardware
@@ -62,9 +72,7 @@ If you write on the topic and have a blog on open source architecture, collabora
 * ....
 * 
 
-### The business models of open source architecture
-
-Writing...
+To write...
 
 ### How to encourage collaboration on open source architecture projects
 
