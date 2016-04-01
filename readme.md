@@ -28,7 +28,7 @@ This is a work in progress document.
 So do not hesitate read it again with more learnings we have added. Feel free to comment it to suggest us some good practices you have learned, some corrections or anything that you think 
 may be interesting to add to this document.
 
-If you want to contribute to add some insights or even write an entire chapter, [read more about how to contribute](https://github.com/open-source-architecture/open-source-architecture-toolkit/blob/master/how-to-contribute.md)
+If you want to contribute to add some insights or even write an entire chapter, [read more about how to contribute.](https://github.com/open-source-architecture/open-source-architecture-toolkit/blob/master/how-to-contribute.md)
 
 If you develop or know some interesting open source architecture projects or ressources, we also curate a directory of links about [open source architecture on Github](https://github.com/open-source-architecture/open-source-architecture). Suggest us new links, we would be very pleased to add them. 
 
