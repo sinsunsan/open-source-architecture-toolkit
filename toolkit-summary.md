@@ -3,7 +3,7 @@
 This toolkit was originally published on [Bricks, the hub for open source architecture](http://www.openbricks.io/app#!/opensource/architecture/howto)
 
 The authors are : 
-* [Sébastien Lucas](https://twitter.com/sebastien_lucas]
+* [Sébastien Lucas](https://twitter.com/sebastien_lucas)
 * [You ?](mailto:hello@openbricks.io?subject=Contribute%20to%20open%20source%20architecture%20toolkit)
 
 Collaborative design, open source architecture are different terms that are not entirely interchangeable. 
