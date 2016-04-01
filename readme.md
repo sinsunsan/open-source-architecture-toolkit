@@ -2,7 +2,7 @@
 
 This toolkit is originally published on [Bricks, the hub for open source architecture](http://www.openbricks.io/app#!/opensource/architecture/howto)
 
-This toolkit is licenced under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/) Licence.
+This toolkit is licensed under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/) Licence.
 
 ![CC-BY-NC](https://ucarecdn.com/7ea45a8c-46d4-4693-b326-de20db11d852/-/stretch/off/-/resize/1200/-/quality/best/)
 
@@ -10,6 +10,9 @@ The authors are :
 * [Sébastien Lucas](https://twitter.com/sebastien_lucas)
 
 [Want to contribute? ](https://github.com/open-source-architecture/open-source-architecture-toolkit/blob/master/how-to-contribute.md)
+
+
+## Introduction 
 
 Collaborative design, open source architecture are different terms that are not entirely interchangeable. 
 
