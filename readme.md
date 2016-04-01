@@ -37,7 +37,7 @@ If you write on the topic and have a blog on open source architecture, collabora
 
 ##  Summary of chapters
 
-### What are the terms of open source architecture 
+### the terms of open source architecture 
 
 * Open source architecture 
 * Open source Hardware
@@ -46,7 +46,7 @@ If you write on the topic and have a blog on open source architecture, collabora
 * Participatory design
 * ....
 
-### What are the different types of open source architecture projects 
+### the types of open source architecture projects 
 
 * Open source construction system : (wikihouse.cc) 
 * Collaborative drawing software (modelo.io)
@@ -54,25 +54,43 @@ If you write on the topic and have a blog on open source architecture, collabora
 * Open source elements of projects (openbricks.io)
 * Participatory design project (wikibuilding)
 
-### Which licence to use for open source architecture
+### the licences for open source architecture
 
 * Creative commons licences 
 * Open source hardware
 * MIT licences
 * ....
+* 
 
-### How to encourage collaboration between open source architecture communities
+### The business models of open source architecture
 
-### Which type of communication is needed to move forward the projects
+Writing...
 
-### Which tools to communicate in open source architecture communities
+### How to encourage collaboration on open source architecture projects
 
-### How to make reusability more than a good principle
+To write...
 
-### How to follow up open source element derivatives or improvments
+### How to communicate and collaborate on open source architecture projects
 
-### Are all projects suitable for open source architecture
+To write...
 
-### What are possible business models for open source architecture
+
+### How to make an open source element reusable
+
+To write...
+
+
+### How to follow and compare open source element derivatives
+
+To write...
+
+
+### Are all projects suitable for open source architecture ?
+
+To write...
+
+
+
+
 
 
