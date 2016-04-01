@@ -11,6 +11,7 @@ The authors are :
 
 [Want to contribute? ](https://github.com/open-source-architecture/open-source-architecture-toolkit/blob/master/how-to-contribute.md)
 
+See also the [directory of open source architecture ressources](https://github.com/open-source-architecture/open-source-architecture)
 
 ## Introduction 
 
