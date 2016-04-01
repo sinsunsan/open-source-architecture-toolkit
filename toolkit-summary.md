@@ -1,6 +1,6 @@
 # Toolkit for open source architecture and collaborative design projects 
 
-This toolkit is originally published on [Bricks, the hub for open source architecture](http://www.openbricks.io/app#!/opensource/architecture/howto)
+This toolkit was originally published on [Bricks, the hub for open source architecture](http://www.openbricks.io/app#!/opensource/architecture/howto)
 
 Collaborative design, open source architecture are different terms that are not entirely interchangeable. 
 
