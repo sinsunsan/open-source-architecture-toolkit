@@ -1,5 +1,7 @@
 # Toolkit for open source architecture and collaborative design projects 
 
+This toolkit is originally published on [Bricks, the hub for open source architecture](http://www.openbricks.io/app#!/opensource/architecture/howto)
+
 Collaborative design, open source architecture are different terms that are not entirely interchangeable. 
 
 We will try to list the common good pratices that can be learned from these new collaborative ways of designing. And more generally how to develop new open source architecture projects and the community behind it.
@@ -12,16 +14,21 @@ But the main idea behind open source architecture projects is that more than one
 
 The other idea is that the projects or elements of projects can be reused thanks to specific open source, creative commons, ... licences. 
 
-That reusability and the envolvment of community members are hard to achieve. Many open source projects are known only by their creators and cannot be reused in an easy way.
+That reusability and the involvment of community members are hard to achieve. Many open source projects are known only by their creators and cannot be reused in an easy way.
 
 Here are some good pratices we have learned while building [Bricks the hub for open source architecture & collaborative design](http://www.openbricks.io)
 
-This post is a work in progress document. So do not hesitate read it again with more learnings we have added.  Feel free to comment it to suggest us some good practices you have learned, some corrections or anything that you think 
+This post is a work in progress document. So do not hesitate read it again with more learnings we have added. Feel free to comment it to suggest us some good practices you have learned, some corrections or anything that you think 
 may be interesting to add to this document.
+
+If you want to contribute to add some insights or even write an entire chapter you need to have a github account and [send us an email](mailto:hello@openbricks.io?subject=Contribute%20to%20open%20source%20architecture%20toolkit)
 
 If you develop or know some interesting open source architecture projects or ressources, we also curate a directory of links about [open source architecture on Github](https://github.com/open-source-architecture/open-source-architecture). Suggest us new links, we would be very pleased to add them. 
 
-If you write on the topic and have a blog on open source architecture, collaborative design, co-design, we would be more than happy to exchange  and publish some of you post as invite bloggers on Bricks.
+If you write on the topic and have a blog on open source architecture, collaborative design, co-design, we would be more than happy to exchange and publish some of you posts as invite bloggers on Bricks.
+
+
+##  Summary of chapters
 
 ### What are the terms of open source architecture 
 
@@ -60,4 +67,5 @@ If you write on the topic and have a blog on open source architecture, collabora
 ### Are all projects suitable for open source architecture
 
 ### What are possible business models for open source architecture
+
 
