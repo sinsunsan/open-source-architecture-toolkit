@@ -42,13 +42,19 @@ If you develop or know some interesting open source architecture projects or res
 
 If you write on the topic and have a blog on open source architecture, collaborative design, co-design, we would be more than happy to exchange and publish some of you posts as invite bloggers on Bricks.
 
+<hr/>
 
 ##  Summary
 
-### The business models of open source architecture
+## [The business models of open source architecture](http://www.openbricks.io/app#!/opensource/architecture/business_models)
 
-Writing...
+## [Why contribute to open source architecture projects ?](http://www.openbricks.io/app#!/opensource/architecture/why_contribute)
 
+## [Project case study : Wikihouse](http://www.openbricks.io/app#!/opensource/architecture/wikihouse)
+
+<hr/>
+
+## In progress Chapters
 
 ### The terms of open source architecture 
 
@@ -104,8 +110,6 @@ To write...
 ### Are all projects suitable for open source architecture ?
 
 To write...
-
-
 
 
 
