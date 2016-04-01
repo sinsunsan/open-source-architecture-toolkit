@@ -42,7 +42,7 @@ If you develop or know some interesting open source architecture projects or res
 If you write on the topic and have a blog on open source architecture, collaborative design, co-design, we would be more than happy to exchange and publish some of you posts as invite bloggers on Bricks.
 
 
-##  Summary of chapters
+##  Summary
 
 ### The business models of open source architecture
 
