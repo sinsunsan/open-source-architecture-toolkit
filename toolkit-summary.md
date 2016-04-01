@@ -2,6 +2,10 @@
 
 This toolkit was originally published on [Bricks, the hub for open source architecture](http://www.openbricks.io/app#!/opensource/architecture/howto)
 
+The authors are : 
+* [Sébastien Lucas](https://twitter.com/sebastien_lucas]
+* [You ?](mailto:hello@openbricks.io?subject=Contribute%20to%20open%20source%20architecture%20toolkit)
+
 Collaborative design, open source architecture are different terms that are not entirely interchangeable. 
 
 We will try to list the common good pratices that can be learned from these new collaborative ways of designing. And more generally how to develop new open source architecture projects and the community behind it.
@@ -18,7 +22,9 @@ That reusability and the involvment of community members are hard to achieve. Ma
 
 Here are some good pratices we have learned while building [Bricks the hub for open source architecture & collaborative design](http://www.openbricks.io)
 
-This post is a work in progress document. So do not hesitate read it again with more learnings we have added. Feel free to comment it to suggest us some good practices you have learned, some corrections or anything that you think 
+This is a work in progress document. 
+
+So do not hesitate read it again with more learnings we have added. Feel free to comment it to suggest us some good practices you have learned, some corrections or anything that you think 
 may be interesting to add to this document.
 
 If you want to contribute to add some insights or even write an entire chapter you need to have a github account and [send us an email](mailto:hello@openbricks.io?subject=Contribute%20to%20open%20source%20architecture%20toolkit)
