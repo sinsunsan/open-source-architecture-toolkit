@@ -5,7 +5,7 @@ This toolkit is originally published on [Bricks, the hub for open source archite
 The authors are : 
 * [Sébastien Lucas](https://twitter.com/sebastien_lucas)
 
-[Want to contribute? ](mailto:hello@openbricks.io?subject=Contribute%20to%20open%20source%20architecture%20toolkit)
+[Want to contribute? ](https://github.com/open-source-architecture/open-source-architecture-toolkit/blob/master/how-to-contribute.md)
 
 Collaborative design, open source architecture are different terms that are not entirely interchangeable. 
 
@@ -28,7 +28,7 @@ This is a work in progress document.
 So do not hesitate read it again with more learnings we have added. Feel free to comment it to suggest us some good practices you have learned, some corrections or anything that you think 
 may be interesting to add to this document.
 
-If you want to contribute to add some insights or even write an entire chapter you need to have a github account and [send us an email](mailto:hello@openbricks.io?subject=Contribute%20to%20open%20source%20architecture%20toolkit)
+If you want to contribute to add some insights or even write an entire chapter, [read more about how to contribute](https://github.com/open-source-architecture/open-source-architecture-toolkit/blob/master/how-to-contribute.md)
 
 If you develop or know some interesting open source architecture projects or ressources, we also curate a directory of links about [open source architecture on Github](https://github.com/open-source-architecture/open-source-architecture). Suggest us new links, we would be very pleased to add them. 
 
